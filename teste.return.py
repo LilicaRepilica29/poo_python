@@ -30,3 +30,4 @@ def somar(a, b):
 x = somar(5, 3)
 print("Valor em x:", x)
 lin()
+lin()
